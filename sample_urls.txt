@@ -1,0 +1,9 @@
+https://example.com
+http://192.168.1.4/login
+http://secure-paypal.com.account-verify.example.ru/
+https://accounts.google.com-security-checkup.co
+http://update-login.com/Office365/verify
+https://xn--pple-43a.com  # punycode for fake 'äpple.com'
+https://bit.ly/3abcxyz
+http://amazon.com.support-reset-password.co/
+https://bank.example/login?session=abcd1234
