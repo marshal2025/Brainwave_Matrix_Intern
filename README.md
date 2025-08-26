@@ -39,18 +39,5 @@ phishing-link-scanner/
 └─ README.md
 ```
 
-## GitHub + LinkedIn (as requested by Brainwave Matrix Solutions)
-1. Create a public repo named **Brainwave_Matrix_Intern**. Put this project inside it (either as the whole repo or under `/phishing-link-scanner`).
-2. Commit and push your code.
-3. Record a short screen capture (30–60s) showing:
-   - running `python main.py https://paypal.com-login.example.ru`
-   - running `python main.py --json https://bit.ly/3abcxyz`
-   - showing the JSON/report output
-4. Post on LinkedIn with your video or screenshots. Suggested caption:
-   > I built a Python **Phishing Link Scanner** for the Brainwave Matrix Solutions internship task.  
-   > It scores risk, explains why, and supports optional WHOIS/DNS/SSL checks.  
-   > #cybersecurity #python #infosec #phishing #BrainwaveMatrixSolutions @Brainwave Matrix Solutions
-5. Tag **Brainwave Matrix Solutions** and add your repo link.
-
 ## License
 MIT
